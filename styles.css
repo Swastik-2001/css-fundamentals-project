@@ -1,0 +1,12 @@
+div.container span.icon {
+  color: red;
+  font-size: 40px;
+}
+
+div.container h2.title {
+  color: blue;
+}
+
+div.container p {
+  color: grey;
+}
